@@ -14,7 +14,7 @@ let phrases = [
 "A felicidade é uma jornada, não um destino.",
 "Faça pouco ou faça muito, mas faça algo.",
 "A simplicidade é a verdadeira elegância.",
-"Tenho azar no amor e sorte no azar!Sorte é o que acontece quando a capacidade encontra a oportunidade.",
+"Sorte é o que acontece quando a capacidade encontra a oportunidade.",
 "A perseverança é a mãe da boa sorte.",
 "Sorte na vida é sentir a felicidade de viver cada momento.",
 "A sorte respeita os valentes e oprime os covardes.",
