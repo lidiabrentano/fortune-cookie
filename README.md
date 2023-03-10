@@ -62,7 +62,7 @@ O layout para consulta foi enviado através da plataforma Figma.
 Projeto feito no curso Explorer da Rocketseat.
 </br>
 </br>
-- Online project: https://lidiabrentano.github.io/responsive-page-01/
+- Online project: https://lidiabrentano.github.io/fortune-cookie/
 </br>
 
 -----
