@@ -27,7 +27,6 @@ let phrases = [
 openCookie.addEventListener("click", fortuneCookie)
 tryAgainButton.addEventListener("click", tryAgain)
 document.addEventListener("keydown", startWithEnter)
-tryAgainButton.addEventListener("keydown", resetWithEnter)
 
 // Funções
 function toggleScreen() {
